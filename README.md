@@ -60,3 +60,13 @@ Learning:
   - Scalable Systems
   - Product Design
   - Advanced Frontend Engineering
+
+
+Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" /> </p>
+Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" /> </p>
+Backend & Database
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" /> </p>
+Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </p>

@@ -32,6 +32,38 @@ Building scalable web applications, startup-focused products, and modern digital
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Modern+Web+Applications;Next.js+%7C+React+%7C+Node.js;Startup+Focused+Builder;Creating+Clean+Digital+Experiences" />
 </p>
 
+## 🧠 Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" />
+</p>
+
+---
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+
 ---
 
 # 🚀 About Me
@@ -61,12 +93,3 @@ Learning:
   - Product Design
   - Advanced Frontend Engineering
 
-
-Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" /> </p>
-Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" /> </p>
-Backend & Database
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" /> </p>
-Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </p>
